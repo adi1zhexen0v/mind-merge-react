@@ -1,0 +1,12 @@
+@import url("./libs/variables.css");
+@import url("./libs/reset.css");
+@import url("./sections/all.css");
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container {
+  width: 1110px;
+  margin: 100px auto;
+}
